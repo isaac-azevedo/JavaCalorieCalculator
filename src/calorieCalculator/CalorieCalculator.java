@@ -1,5 +1,6 @@
 package calorieCalculator;
 
+//projeto add no gitHub
 import java.util.Scanner;
 
 
