@@ -1,6 +1,7 @@
 package calorieCalculator;
 
-//projeto add no gitHub na branch staging
+//projeto add no gitHub na branch atualizações
+//projeto deverá ter sistema de login
 import java.util.Scanner;
 
 
